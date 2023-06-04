@@ -18,7 +18,7 @@ app.use("/user", userRoute);
       //GET - pega uma info
       //POST - cria uma info
       //PUT - altera toda informação
-      //PATH - altera parte da info
+      //PATCH - altera parte da info
       //DELET - apaga uma info
 
   // 2 - NAME (rota em si) um identificador da rota
